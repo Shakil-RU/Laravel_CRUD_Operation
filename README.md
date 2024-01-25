@@ -1,7 +1,7 @@
 ## Working Rules for this project.
-Name: Abdullah Numan Shakil</br>
-Dept. of Computer Science & Engineering</br>
-University of Rajshahi.</br></br>
+    Name: Abdullah Numan Shakil
+    Dept. of Computer Science & Engineering
+    University of Rajshahi.
 
 1. Create a laravel project with the  following command:
 ````
